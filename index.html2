@@ -67,7 +67,7 @@
 				<div class="col-twelve">
 
 					<h5>Hello!</h5>
-					<h1>I<span style="color: #0011cc;">'</span>m RAVITEJA<span style="color: hsl(251, 100%, 40%);">.</span></h1>
+					<h1>I<span style="color: #CC005F;">'</span>m RAVITEJA<span style="color: #CC005F;">.</span></h1>
 
 					<p class="intro-position">
 						<span><big>D</big>ATA <big>S</big>CIENCE</span>
@@ -84,10 +84,10 @@
 		</div> <!-- /intro-content -->
 
 		<ul class="intro-social">
-			<li><a href="https://www.linkedin.com/in/teja-ai-ml/"><i class="fa fa-linkedin"></i></a></li>
-			<li><a href="https://github.com/Tejagithub-1"><i class="fa fa-github"></i></a></li>
-			<li><a href="https://www.instagram.com/tej_glorious64/?hl=en/"><i class="fa fa-instagram"></i></a></li>
-			<li><a href="https://twitter.com/_"><i class="fa fa-twitter"></i></a></li>
+			<li><a href="https://www.linkedin.com/in/codewithcharan/"><i class="fa fa-linkedin"></i></a></li>
+			<li><a href="https://github.com/CodeWithCharan"><i class="fa fa-github"></i></a></li>
+			<li><a href="https://www.instagram.com/joyboy._.ig/"><i class="fa fa-instagram"></i></a></li>
+			<li><a href="https://twitter.com/Joyboy_x_"><i class="fa fa-twitter"></i></a></li>
 			
 		</ul> <!-- /intro-social -->
 
@@ -106,7 +106,7 @@
 
 				<div class="intro-info">
 
-					<img src="images/mypic.jpj.png" alt="">
+					<img src="images/pic.jpg" alt="">
 
 					<p class="lead">
 						
@@ -129,9 +129,9 @@
 		<div class="row button-section">
 			<div class="col-twelve">
 				<a href="#contact" title="Hire Me" class="button stroke smoothscroll">Contact me</a>
-				<a href="/resumes/document (1) (5).pdf" title="Download CV (Overleaf)" class="button button-primary">DS Resume</a>
-				<a href="resumes/Gandrakota Raviteja (3) (1).pdf" title="Download CV (Overleaf)" class="button button-primary">ML Resume</a>
-				<a href="resumes/document (1) (5).pdf" title="Download CV (Overleaf)" class="button button-primary">GenAI Resume</a>
+				<a href="resumes/Charan_DS_Resume.pdf" title="Download CV (Overleaf)" class="button button-primary">DS Resume</a>
+				<a href="resumes/Charan_ML_Resume.pdf" title="Download CV (Overleaf)" class="button button-primary">ML Resume</a>
+				<a href="resumes/Charan_GenAI_Resume.pdf" title="Download CV (Overleaf)" class="button button-primary">GenAI Resume</a>
 			</div>
 		</div>
 			</section> <!-- /process-->
@@ -481,10 +481,10 @@
 			<div class="col-six tab-full pull-right social">
 
 				<ul class="footer-social">
-					<li><a href="https://www.linkedin.com/in/teja-ai-ml/"><i class="fa fa-linkedin"></i></a></li>
-					<li><a href="https://github.com/Tejagithub-1"><i class="fa fa-github"></i></a></li>
-					<li><a href="https://www.instagram.com/tej_glorious64/?hl=en/"><i class="fa fa-instagram"></i></a></li>
-					<li><a href="https://twitter.com/"><i class="fa fa-twitter"></i></a></li>
+					<li><a href="https://www.linkedin.com/in/codewithcharan/"><i class="fa fa-linkedin"></i></a></li>
+					<li><a href="https://github.com/CodeWithCharan"><i class="fa fa-github"></i></a></li>
+					<li><a href="https://www.instagram.com/joyboy._.ig/"><i class="fa fa-instagram"></i></a></li>
+					<li><a href="https://twitter.com/Joyboy_x_"><i class="fa fa-twitter"></i></a></li>
 				</ul>
 
 			</div>
@@ -492,7 +492,7 @@
 			<div class="col-six tab-full">
 				<div class="copyright">
 					<span>© Copyright 2025 </span>
-					<span>Design by <a href="https://www.linkedin.com/in/teja-ai-ml/">RAVITEJA</a></span>
+					<span>Design by <a href="https://www.linkedin.com/in/codewithcharan/">RAVITEJA</a></span>
 				</div>
 			</div>
 
